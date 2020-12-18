@@ -21,8 +21,8 @@ public class MainActivity extends AppCompatActivity {
         Bloco txtBloco2 = createBloco("Bloco 2");
         Bloco txtBloco3 = createBloco("Bloco 3");
 
-        TextView luz1 = findViewById(R.id.luz1);
-        TextView luz2 = findViewById(R.id.luz2);
+        TextView luz1 = findViewById(R.id.txtluz3);
+        TextView luz2 = findViewById(R.id.txtluz2);
         TextView luz3 = findViewById(R.id.luz3);
 
         Switch s1 = findViewById(R.id.s1);
